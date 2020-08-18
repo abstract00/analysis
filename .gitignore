@@ -1,6 +1,2 @@
 *.txt
 *.xlsx
-
-/src/.ipynb_checkpoints/
-/src/util/.ipynb_checkpoints/
-/src/util/__pycache__/
