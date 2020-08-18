@@ -1,4 +1,4 @@
 /data/
-/mst/
+/mst/*.xlsx
 
 !.gitkeep
